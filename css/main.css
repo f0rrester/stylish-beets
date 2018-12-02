@@ -9,6 +9,7 @@ html {
 
 h1 {
   font-size: 1.5rem;
+  line-height: 1.5;
 }
 
 header {
@@ -70,7 +71,7 @@ a {
 }
 
 nav a {
-    font-size: 1.125rem;
+  font-size: 1.125rem;
 }
 
 footer a {
