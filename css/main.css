@@ -36,7 +36,7 @@ main {
 }
 
 p {
-  font-size: 1.25rem;
+  font-size: 1.125rem;
 }
 
 img {
@@ -57,16 +57,25 @@ nav li {
 }
 
 small {
-  font-size: 1rem;
+  font-size: .8rem;
 }
 
 a {
-  font-size: 1.125rem;
+  font-size: 1.5rem;
   color: #8f2440;
   line-height: 1.5;
   list-style-type: none;
   text-decoration: none;
   font-family: "PT Sans", sans-serif;
+}
+
+nav a {
+    font-size: 1.125rem;
+}
+
+footer a {
+  font-size: .8rem;
+  font-family: "PT Serif", serif;
 }
 
 a:hover {
@@ -81,6 +90,7 @@ a:visited {
   list-style-type: none;
   text-decoration: none;
 }
+
 dl {
   font-size: 1rem;
 }
